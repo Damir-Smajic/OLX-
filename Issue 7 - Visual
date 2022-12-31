@@ -1,0 +1,18 @@
+DESCRIPTION: 
+
+  "SAKRIJ OPCIJE" button is covered by other elements
+  
+STEPS TO REPRODUCE: 
+
+1. Open olx.ba homepage
+2. Click on down arrow on slide bar to show "PRIKAZI OPCIJE" button 
+3. Click on "PRIKAZI OPCIJE" button 
+4. Scroll up to the top of the page 
+
+EXPECTED RESULT: 
+
+  "SAKRIJ OPCIJE" button is visible and can be clicked on
+  
+ACTUAL RESULT: 
+ 
+  "SAKRIJ OPCIJE" button is coverd by left side menu and can't be clicked
