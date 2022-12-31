@@ -1,0 +1,24 @@
+DESCRIPTION: 
+
+  Username input field doesn't accept inputs displayed as valid in error message and different valid inputs are displayed 
+  
+STEPS TO REPRODUCE: 
+
+  1. Navigate to olx.ba
+  2. 2.	Click on „REGISTRACIJA“ button in NavBar
+  3. 3.	Click on „REGISTRUJ PROFIL“ button
+  4. In "Vase OLX ime" field enter "qa-testing"
+  5. Click on "ZAVRSI REGISTRACIJU" button
+  (Error message for allowed characters is displayed next to the input field)
+  6. In "Vase OLX ime" field change input to "qa_testing"
+  7. Click on "ZAVRSI REGISTRACIJU" button
+  
+  EXPECTED RESULT: 
+  
+    User profile is created
+    
+  ACTUAL RESULT: 
+  
+    Error message is displayed with different allowed characters
+  
+  
