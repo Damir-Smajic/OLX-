@@ -1,0 +1,28 @@
+DESCRIPTION: 
+
+Required element from registration form is missing when traversing back and forward in Chrome.
+
+STEPS TO REPRODUCE: 
+
+1.	Navigate to olx.ba
+2.	Click on „PRIJAVA“ button
+3.	Click on „REGISTRUJTE SE“ button
+4.	Click on „REGISTRUJ PROFIL“ button
+5.	Complete registration form with valid inputs
+6.	From „Lokacija“ dropdown menu select „Sarajevo“
+7.	From „Mjesto“ dropdown menu select „Novo Sarajevo“
+8.	Click on back arrow in Chrome
+9.	Click on forward arrow in Chrome
+10.	Click on „REGISTRUJ PROFIL“ button
+
+EXPECTED RESULT:
+
+	User can see empty registration form.
+  
+ACTUAL RESULT: 
+
+	„Sarajevo“ is selected in „Lokacija“ dropdown menu
+  
+NOTE: 
+
+When user opens „Lokacija“ dropdown menu and selects “Sarajevo“ again the „Mjesto“ dropdown menu will not appear.
