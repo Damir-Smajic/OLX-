@@ -4,7 +4,7 @@ DESCRIPTION:
 
 Because I don't have access to the documentation of the site I did exploratory testing of registration flow. During exploratory testing of the Klasični profil and OLX Shop registration forms I documented the following information about input fields boundry values and behaviour of different elements from these forms so I could write test cases for boundry values and to write detailed positive and negative test cases. 
 
-	KLASIČNI PROFIL: 
+KLASIČNI PROFIL: 
 
 -	 „Vaša e-mail adresa“ - input field accepts standard email format
 -	„Password“ - input field accepts minimum length of 4 characters
