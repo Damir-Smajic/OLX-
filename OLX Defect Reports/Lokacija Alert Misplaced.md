@@ -20,4 +20,6 @@ ACTUAL RESULT:
 
   „Izaberite mjesto“ error message is displayed next to „Lokacija“ dropdown menu with „Sarajevo“ selected
   
+SCREENSHOTS:  
+  
   ![Mjesto Bug](https://user-images.githubusercontent.com/121490682/220826779-9e087873-fbef-4e32-b74e-1446248d430c.png)
