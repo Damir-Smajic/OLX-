@@ -1,4 +1,4 @@
-# Welcome to my OLX Test reposatory
+# Welcome to my OLX Test repository
 
 In this repository there are Manual Test and Automation Test folders of older version of olx.ba website.
 
