@@ -20,7 +20,9 @@ STEPS TO REPRODUCE:
   ACTUAL RESULT: 
   
     Error message is displayed with different allowed characters
+    
+  SCREENSHOTS:  
   
-  ![OLX ime 1](https://user-images.githubusercontent.com/121490682/220824607-8e52d4f2-b5ce-463c-ba60-bd7d3ea3c4b7.png)
+    ![OLX ime 1](https://user-images.githubusercontent.com/121490682/220824607-8e52d4f2-b5ce-463c-ba60-bd7d3ea3c4b7.png)
 
-![OLX ime](https://user-images.githubusercontent.com/121490682/220824619-d6e11c76-e433-442b-88f4-419292a9fff8.png)
+    ![OLX ime](https://user-images.githubusercontent.com/121490682/220824619-d6e11c76-e433-442b-88f4-419292a9fff8.png)
