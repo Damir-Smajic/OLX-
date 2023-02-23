@@ -41,7 +41,7 @@ context('OLX', () => {
          osnovniPodatci.transmisijaClick()
          osnovniPodatci.nastaviButton2Click()
          
-         // 3. CIJENA SLIKE I OPIS 
+         // 3. FOTOGRAFIJE 
 
          fotografije.wait()  
          fotografije.zavrsiObjavuButtonClick()
